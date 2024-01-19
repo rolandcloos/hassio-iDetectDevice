@@ -1,7 +1,7 @@
-name: "Hello world"
-description: "My first real add-on!"
+name: "iDetectDevice"
+description: "Detects devices by their energy profile"
 version: "1.0.0"
-slug: "hello_world"
+slug: "iDetectDevice"
 init: false
 arch:
   - aarch64
